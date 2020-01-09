@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { ShoppingListComponent } from './shopping-list.component';
 import { ShoppingListEditComponent } from './shopping-list-edit/shopping-list-edit.component';
 import { RouterModule } from '@angular/router';
-import { FormsModule } from '../../../node_modules/@angular/forms';
+import { FormsModule } from '@angular/forms';
 import { SharedModule } from '../shared/shared.module';
 import { LoggingService } from '../logging.service';
 

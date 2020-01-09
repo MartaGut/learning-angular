@@ -1,8 +1,8 @@
-import { NgModule } from '../../../node_modules/@angular/core';
+import { NgModule } from '@angular/core';
 import { AuthComponent } from './auth.component';
-import { CommonModule } from '../../../node_modules/@angular/common';
-import { FormsModule } from '../../../node_modules/@angular/forms';
-import { RouterModule } from '../../../node_modules/@angular/router';
+import { CommonModule } from '@angular/common';
+import { FormsModule } from '@angular/forms';
+import { RouterModule } from '@angular/router';
 import { SharedModule } from '../shared/shared.module';
 
 @NgModule({
